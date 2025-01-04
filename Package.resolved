@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Omnibar",
+        "repositoryURL": "https://github.com/CleanCocoa/Omnibar.git",
+        "state": {
+          "branch": null,
+          "revision": "b3f1a2a549fb022e4e1fdb64902359819c1558a4",
+          "version": "0.21.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
+        "state": {
+          "branch": null,
+          "revision": "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+          "version": "6.6.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
