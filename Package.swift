@@ -19,7 +19,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/ReactiveX/RxSwift.git", from: "6.6.0"),
-        .package(url: "https://github.com/CleanCocoa/Omnibar.git", from: "0.21.0"),
+        .package(url: "https://github.com/CleanCocoa/Omnibar.git", from: "1.0.0"),
     ],
     targets: [
         .target(

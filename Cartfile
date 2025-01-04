@@ -1,2 +1,2 @@
 github "ReactiveX/RxSwift" ~> 6.6
-github "CleanCocoa/Omnibar" "master"
+github "CleanCocoa/Omnibar" ~> 1.0
