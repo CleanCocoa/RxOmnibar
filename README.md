@@ -1,4 +1,4 @@
-# Omnibar
+# RxOmnibar
 
 ![Swift 5.7](https://img.shields.io/badge/Swift-5.7-blue.svg?style=flat)
 ![Version](https://img.shields.io/github/tag/CleanCocoa/Omnibar.svg?style=flat)
